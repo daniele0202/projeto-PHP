@@ -1,2 +1,2 @@
-# projeto-PHP
-projeto-PHP com Msql
+# Projeto-PHP
+Projeto-PHP com Msql
